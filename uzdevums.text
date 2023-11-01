@@ -1,0 +1,8 @@
+laika joslu pārveidotājs
+1. izmantojot lietotni var uzzinat kads laiks ir citas laika joslos
+2. interfeisam jabut parastam. interfejsā jābut 1 bilde, 2 logi (A un B) datu ievadišanai, 1 logs (C) jautajumam, 1 logs (D) atbildem:
+  A logs - vajag ievadit savu laika joslu
+  B logs - vajag ievadit cik ir laks sava joslā
+  C logs - vajag ievadit laika joslu kurā gribetu uzzinat cik ir laiks
+  D logs - šeit bus paradits laiks joslā kurs uzrakstits C logā
+3. Logiem jābūt kolonnā no augšas uz leju ekrāna labajā pusē. Virs katra loga ir jābūt aprakstam, kam šis logs ir vajadzīgs. Kreisaja pusējabut globusa bilde.
